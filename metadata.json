@@ -1,0 +1,12 @@
+{
+  "name": "iwagnerclgx-cloud_metadata",
+  "version": "1.0.0",
+  "author": "iwagnerclgx",
+  "summary": "Facts from Cloud Metadata",
+  "license": "Apache-2.0",
+  "source": "https://github.com/iwagnerclgx/puppet-cloud_metadata",
+  "project_page": "https://github.com/iwagnerclgx/puppet-cloud_metadata",
+  "issues_url": "https://github.com/iwagnerclgx/puppet-cloud_metadata/issues",
+  "dependencies": [ ],
+  "data_provider": null
+}

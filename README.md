@@ -8,8 +8,7 @@
 
 ## Description
 
-This module exposes facts from data that you can pass .
-
+This module exposes facts from data that you can pass via metadata in cloud providers.
 
 ## Reference
 
